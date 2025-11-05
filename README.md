@@ -1,4 +1,4 @@
-Link Hasil Deploy (GitHub Pages):
+Link Hasil Deploy (GitHub Pages): https://andifhaikafiantikaat-stack.github.io/Portofolio_Andi-Faika-Fiantika-AT/
 
 Tugas ini bertujuan untuk mengimplementasikan konsep Responsive Web Design (RWD) melalui pembuatan website portofolio pribadi multi-halaman.
 Website ini diharapkan dapat menampilkan identitas, keterampilan, serta proyek-proyek mahasiswa secara menarik, interaktif, dan dapat diakses dengan baik di berbagai ukuran layar (desktop, tablet, maupun ponsel).
